@@ -2,6 +2,8 @@
 
 This repo is an updated companion to the [PyCon APAC 2024 lecture](https://www.youtube.com/watch?v=6e53cVVjlTw).
 
+[![Watch the PyCon APAC 2024 lecture](https://img.youtube.com/vi/6e53cVVjlTw/hqdefault.jpg)](https://www.youtube.com/watch?v=6e53cVVjlTw)
+
 > **Disclaimer: This analysis is educational and is not investment advice.**
 
 ## Run the notebook
